@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7478c72e83634210eb071c29feaad3e6" extends="sys_user_group" label="Review Board" max_length="40" name="x_1439284_develo_0_review_board" type="collection">
+        <element default="1" function_definition="1" label="Board Level" mandatory="true" max_length="40" name="board_level" type="integer"/>
+        <element label="Development Program" mandatory="true" max_length="32" name="development_program" reference="x_1439284_develo_0_development_program" type="reference"/>
+        <element dynamic_ref_qual="8cba9b6a83e34210eb071c29feaad3f5" label="Fufiller" max_length="40" name="fufiller" reference="sys_user" reference_qual="javascript:var query; var arr = []; var gr = new GlideRecord(&quot;sys_user_grmember&quot;); gr.addQuery(&quot;group&quot;, current.sys_id); gr.query(); while (gr.next()) {    arr.push(gr.getValue('user')); } query = 'sys_idIN' + arr.toString(); query;" type="reference" use_reference_qualifier="dynamic"/>
+        <index name="index">
+            <element name="development_program"/>
+        </index>
+    </element>
+</database>

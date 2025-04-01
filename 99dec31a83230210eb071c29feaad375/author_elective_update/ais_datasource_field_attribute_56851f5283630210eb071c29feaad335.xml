@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource_field_attribute">
+    <ais_datasource_field_attribute action="DELETE">
+        <attribute display_value="map_to">f734a634c7320010d1cfd9795cc26094</attribute>
+        <datasource display_value="Review Board Table">96851f5283630210eb071c29feaad315</datasource>
+        <field>number</field>
+        <source>x_1439284_develo_0_review_boards</source>
+        <sys_class_name>ais_datasource_field_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-24 19:26:44</sys_created_on>
+        <sys_id>56851f5283630210eb071c29feaad335</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1439284_develo_0_review_boards.number</sys_name>
+        <sys_package display_value="Development Program Selection" source="x_1439284_develo_0">99dec31a83230210eb071c29feaad375</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Development Program Selection">99dec31a83230210eb071c29feaad375</sys_scope>
+        <sys_update_name>ais_datasource_field_attribute_56851f5283630210eb071c29feaad335</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-24 19:26:44</sys_updated_on>
+        <value>title</value>
+    </ais_datasource_field_attribute>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Development Program Selection">99dec31a83230210eb071c29feaad375</application>
+        <file_path/>
+        <instance_id>3cbdc7f91b3975d09377eb9b2d4bcb85</instance_id>
+        <instance_name>dev182968</instance_name>
+        <name>ais_datasource_field_attribute_56851f5283630210eb071c29feaad335</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource_field_attribute"><ais_datasource_field_attribute action="INSERT_OR_UPDATE"><attribute display_value="map_to">f734a634c7320010d1cfd9795cc26094</attribute><datasource display_value="Review Board Table">96851f5283630210eb071c29feaad315</datasource><field>number</field><source>x_1439284_develo_0_review_boards</source><sys_class_name>ais_datasource_field_attribute</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-24 19:26:44</sys_created_on><sys_id>56851f5283630210eb071c29feaad335</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1439284_develo_0_review_boards.number</sys_name><sys_package display_value="Development Program Selection" source="x_1439284_develo_0">99dec31a83230210eb071c29feaad375</sys_package><sys_policy/><sys_scope display_value="Development Program Selection">99dec31a83230210eb071c29feaad375</sys_scope><sys_update_name>ais_datasource_field_attribute_56851f5283630210eb071c29feaad335</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-24 19:26:44</sys_updated_on><value>title</value></ais_datasource_field_attribute></record_update>]]></payload>
+        <payload_hash>366621101</payload_hash>
+        <record_name>x_1439284_develo_0_review_boards.number</record_name>
+        <reverted_from/>
+        <source>1ddec31a83230210eb071c29feaad386</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-24 19:26:44</sys_created_on>
+        <sys_id>92851f5283630210eb071c29feaad337</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190e635ce660000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-24 19:26:44</sys_updated_on>
+        <type>AI Search Indexed Source Field Attribute</type>
+        <update_guid>d6851f52ef6302109c76ba61518aff36</update_guid>
+        <update_guid_history>d6851f52ef6302109c76ba61518aff36:366621101</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1439284_develo_0_review_boards.number">bcddf23283278210eb071c29feaad3ab</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-26 07:00:05</sys_created_on>
+        <sys_db_object display_value="" name="ais_datasource_field_attribute">ais_datasource_field_attribute</sys_db_object>
+        <sys_id>1f707213c98b4d299b3ce9feac000491</sys_id>
+        <sys_metadata>56851f5283630210eb071c29feaad335</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1439284_develo_0_review_boards.number</sys_name>
+        <sys_package display_value="Development Program Selection" source="x_1439284_develo_0">99dec31a83230210eb071c29feaad375</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Development Program Selection">99dec31a83230210eb071c29feaad375</sys_scope>
+        <sys_scope_delete display_value="">801ed180d9c946e88445a9f82c485469</sys_scope_delete>
+        <sys_update_name>ais_datasource_field_attribute_56851f5283630210eb071c29feaad335</sys_update_name>
+        <sys_update_version display_value="ais_datasource_field_attribute_56851f5283630210eb071c29feaad335">92851f5283630210eb071c29feaad337</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-26 07:00:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

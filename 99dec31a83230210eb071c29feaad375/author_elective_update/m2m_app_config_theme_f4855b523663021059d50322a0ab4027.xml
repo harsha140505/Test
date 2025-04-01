@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="DELETE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-24 19:26:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f4855b523663021059d50322a0ab4027</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Development Program Selection" source="x_1439284_develo_0">99dec31a83230210eb071c29feaad375</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Development Program Selection">99dec31a83230210eb071c29feaad375</sys_scope>
+        <sys_update_name>m2m_app_config_theme_f4855b523663021059d50322a0ab4027</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-24 19:26:39</sys_updated_on>
+        <theme display_value="Base Agent Workspace theme">c012213bc39b10101d590cf06e40dd32</theme>
+        <ux_app_configuration display_value="">b8855b5253630210bb0b18a029f0d028</ux_app_configuration>
+    </m2m_app_config_theme>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Development Program Selection">99dec31a83230210eb071c29feaad375</application>
+        <file_path/>
+        <instance_id>3cbdc7f91b3975d09377eb9b2d4bcb85</instance_id>
+        <instance_name>dev182968</instance_name>
+        <name>m2m_app_config_theme_f4855b523663021059d50322a0ab4027</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme"><m2m_app_config_theme action="INSERT_OR_UPDATE"><applicability/><order>0</order><sys_class_name>m2m_app_config_theme</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-24 19:26:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f4855b523663021059d50322a0ab4027</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Development Program Selection" source="x_1439284_develo_0">99dec31a83230210eb071c29feaad375</sys_package><sys_policy/><sys_scope display_value="Development Program Selection">99dec31a83230210eb071c29feaad375</sys_scope><sys_update_name>m2m_app_config_theme_f4855b523663021059d50322a0ab4027</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-24 19:26:39</sys_updated_on><theme display_value="Base Agent Workspace theme">c012213bc39b10101d590cf06e40dd32</theme><ux_app_configuration display_value="">b8855b5253630210bb0b18a029f0d028</ux_app_configuration></m2m_app_config_theme></record_update>]]></payload>
+        <payload_hash>1979706250</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>abel.tuter</sys_created_by>
+        <sys_created_on>2024-07-25 16:27:40</sys_created_on>
+        <sys_id>45263f6283a74210eb071c29feaad385</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190eab83a880000001</sys_recorded_at>
+        <sys_updated_by>abel.tuter</sys_updated_by>
+        <sys_updated_on>2024-07-25 16:27:40</sys_updated_on>
+        <type>UX App Theme</type>
+        <update_guid>05263f62b2a742100e027e080f6d2c85</update_guid>
+        <update_guid_history>05263f62b2a742100e027e080f6d2c85:1979706250</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">c9263f6283a74210eb071c29feaad386</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>abel.tuter</sys_created_by>
+        <sys_created_on>2024-07-25 16:27:40</sys_created_on>
+        <sys_db_object display_value="" name="m2m_app_config_theme">m2m_app_config_theme</sys_db_object>
+        <sys_id>3529412a52c641e0865ac5603b9de400</sys_id>
+        <sys_metadata>f4855b523663021059d50322a0ab4027</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Development Program Selection" source="x_1439284_develo_0">99dec31a83230210eb071c29feaad375</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Development Program Selection">99dec31a83230210eb071c29feaad375</sys_scope>
+        <sys_scope_delete display_value="">801ed180d9c946e88445a9f82c485469</sys_scope_delete>
+        <sys_update_name>m2m_app_config_theme_f4855b523663021059d50322a0ab4027</sys_update_name>
+        <sys_update_version display_value="m2m_app_config_theme_f4855b523663021059d50322a0ab4027">45263f6283a74210eb071c29feaad385</sys_update_version>
+        <sys_updated_by>abel.tuter</sys_updated_by>
+        <sys_updated_on>2024-07-25 16:27:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

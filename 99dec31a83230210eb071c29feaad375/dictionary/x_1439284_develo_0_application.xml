@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6e0fc71a83230210eb071c29feaad370" extends="task" label="Application" max_length="40" name="x_1439284_develo_0_application" type="collection">
+        <element label="Applicant" max_length="32" name="applicant" reference="sys_user" type="reference"/>
+        <element label="Application Package" max_length="40" name="application_package" type="file_attachment"/>
+        <element default="1" function_definition="1" label="Current Review Level" mandatory="true" max_length="40" name="current_review_level" type="integer"/>
+        <element label="Development Program" mandatory="true" max_length="32" name="development_program" reference="x_1439284_develo_0_development_program" type="reference"/>
+        <element attributes="encode_utf8=false" label="Email" max_length="32" name="email" reference="sys_user" type="reference"/>
+        <element label="Name" max_length="32" name="name" reference="sys_user" type="reference"/>
+        <element choice="1" label="Office" max_length="40" name="office" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="NYC" sequence="0" value="nyc"/>
+                <element inactive_on_update="false" label="DC" sequence="1" value="dc"/>
+                <element inactive_on_update="false" label="LA" sequence="2" value="la"/>
+                <element inactive_on_update="false" label="Houston" sequence="3" value="houston"/>
+            </choice>
+        </element>
+        <element label="Phone Number" max_length="32" name="phone_number" reference="sys_user" type="reference"/>
+        <element label="Review Board" max_length="32" name="review_board" reference="x_1439284_develo_0_review_board" type="reference"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Awaiting Supervisor Approval" sequence="0" value="awaiting_supervisor_approval"/>
+                <element inactive_on_update="false" label="Supervisor Approved" sequence="1" value="supervisor_approved"/>
+                <element inactive_on_update="false" label="Supervisor Rejected" sequence="2" value="supervisor_rejected"/>
+                <element inactive_on_update="false" label="Awaiting Board Assignment" sequence="3" value="awaiting_board_assignment"/>
+                <element inactive_on_update="false" label="Awaiting Board Review" sequence="4" value="awaiting_board_review"/>
+                <element inactive_on_update="false" label="Board Approved" sequence="5" value="board_approved"/>
+                <element inactive_on_update="false" label="Board Rejected" sequence="6" value="board_rejected"/>
+            </choice>
+        </element>
+    </element>
+</database>

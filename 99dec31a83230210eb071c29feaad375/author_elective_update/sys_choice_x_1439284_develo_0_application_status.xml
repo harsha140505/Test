@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="status" table="x_1439284_develo_0_application" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <name>x_1439284_develo_0_application</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2024-07-24 19:55:45</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>status</sys_name>
+            <sys_package display_value="Development Program Selection" source="x_1439284_develo_0">99dec31a83230210eb071c29feaad375</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Development Program Selection">99dec31a83230210eb071c29feaad375</sys_scope>
+            <sys_update_name>sys_choice_x_1439284_develo_0_application_status</sys_update_name>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2024-07-24 19:55:45</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Awaiting Supervisor Approval</label>
+            <language>en</language>
+            <name>x_1439284_develo_0_application</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2024-07-24 19:55:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2024-07-24 19:55:45</sys_updated_on>
+            <value>awaiting_supervisor_approval</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Supervisor Approved</label>
+            <language>en</language>
+            <name>x_1439284_develo_0_application</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2024-07-24 19:55:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2024-07-24 19:55:45</sys_updated_on>
+            <value>supervisor_approved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Supervisor Rejected</label>
+            <language>en</language>
+            <name>x_1439284_develo_0_application</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2024-07-24 19:55:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2024-07-24 19:55:45</sys_updated_on>
+            <value>supervisor_rejected</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Awaiting Board Assignment</label>
+            <language>en</language>
+            <name>x_1439284_develo_0_application</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin1</sys_created_by>
+            <sys_created_on>2024-07-25 16:22:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin1</sys_updated_by>
+            <sys_updated_on>2024-07-25 16:22:42</sys_updated_on>
+            <value>awaiting_board_assignment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Awaiting Board Review</label>
+            <language>en</language>
+            <name>x_1439284_develo_0_application</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2024-07-24 19:55:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin1</sys_updated_by>
+            <sys_updated_on>2024-07-25 16:22:42</sys_updated_on>
+            <value>awaiting_board_review</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Board Approved</label>
+            <language>en</language>
+            <name>x_1439284_develo_0_application</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2024-07-24 19:55:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin1</sys_updated_by>
+            <sys_updated_on>2024-07-25 16:22:42</sys_updated_on>
+            <value>board_approved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Board Rejected</label>
+            <language>en</language>
+            <name>x_1439284_develo_0_application</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2024-07-24 19:55:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin1</sys_updated_by>
+            <sys_updated_on>2024-07-25 16:22:42</sys_updated_on>
+            <value>board_rejected</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

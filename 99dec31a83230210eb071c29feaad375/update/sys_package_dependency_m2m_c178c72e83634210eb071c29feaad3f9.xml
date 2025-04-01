@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System (glidesoft)" source="glidesoft">cfb0cd338d020210d0ad51af41866329</dependency>
+        <min_version/>
+        <sys_created_by>admin1</sys_created_by>
+        <sys_created_on>2024-07-25 13:08:03</sys_created_on>
+        <sys_id>c178c72e83634210eb071c29feaad3f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Development Program Selection" source="x_1439284_develo_0">99dec31a83230210eb071c29feaad375</sys_package>
+        <sys_updated_by>admin1</sys_updated_by>
+        <sys_updated_on>2024-07-25 13:08:03</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

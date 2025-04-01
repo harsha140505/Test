@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_dictionary">
+    <ais_dictionary action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <auto_refresh>24</auto_refresh>
+        <blocked_field/>
+        <case_sensitive>false</case_sensitive>
+        <data_source>x_1439284_develo_0_selection_task,x_1439284_develo_0_application</data_source>
+        <derived>true</derived>
+        <field/>
+        <label>development-program-selection-workspace Search Profile Default Spell Check Dictionary</label>
+        <last_derived/>
+        <locale>en</locale>
+        <name>x_1439284_develo_0_development_program_selection_workspace_search_profile_default_spell_check_dictionary</name>
+        <publish_id/>
+        <punctuation_sensitive>false</punctuation_sensitive>
+        <state>DRAFT</state>
+        <sys_class_name>ais_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-24 19:26:43</sys_created_on>
+        <sys_id>d685db5283630210eb071c29feaad3cf</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>x_1439284_develo_0_development_program_selection_workspace_search_profile_default_spell_check_dictionary</sys_name>
+        <sys_package display_value="Development Program Selection" source="x_1439284_develo_0">99dec31a83230210eb071c29feaad375</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Development Program Selection">99dec31a83230210eb071c29feaad375</sys_scope>
+        <sys_update_name>ais_dictionary_d685db5283630210eb071c29feaad3cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-26 07:00:03</sys_updated_on>
+        <type>SPELLCHECK</type>
+    </ais_dictionary>
+</record_update>

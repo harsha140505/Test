@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_registry_m2m_category">
+    <sys_ux_registry_m2m_category action="DELETE">
+        <experience_category display_value="Workspace">afb4e3e173322010f0ca1e666bf6a726</experience_category>
+        <order/>
+        <page_registry display_value="">34855b5286630210160197e1e114d428</page_registry>
+        <sys_class_name>sys_ux_registry_m2m_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-24 19:26:40</sys_created_on>
+        <sys_id>f4855b5235630210c1f8c7693b618415</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Development Program Selection" source="x_1439284_develo_0">99dec31a83230210eb071c29feaad375</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Development Program Selection">99dec31a83230210eb071c29feaad375</sys_scope>
+        <sys_update_name>sys_ux_registry_m2m_category_f4855b5235630210c1f8c7693b618415</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-24 19:26:40</sys_updated_on>
+    </sys_ux_registry_m2m_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Development Program Selection">99dec31a83230210eb071c29feaad375</application>
+        <file_path/>
+        <instance_id>3cbdc7f91b3975d09377eb9b2d4bcb85</instance_id>
+        <instance_name>dev182968</instance_name>
+        <name>sys_ux_registry_m2m_category_f4855b5235630210c1f8c7693b618415</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_registry_m2m_category"><sys_ux_registry_m2m_category action="INSERT_OR_UPDATE"><experience_category display_value="Workspace">afb4e3e173322010f0ca1e666bf6a726</experience_category><order/><page_registry display_value="">34855b5286630210160197e1e114d428</page_registry><sys_class_name>sys_ux_registry_m2m_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-24 19:26:40</sys_created_on><sys_id>f4855b5235630210c1f8c7693b618415</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Development Program Selection" source="x_1439284_develo_0">99dec31a83230210eb071c29feaad375</sys_package><sys_policy/><sys_scope display_value="Development Program Selection">99dec31a83230210eb071c29feaad375</sys_scope><sys_update_name>sys_ux_registry_m2m_category_f4855b5235630210c1f8c7693b618415</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-24 19:26:40</sys_updated_on></sys_ux_registry_m2m_category></record_update>]]></payload>
+        <payload_hash>525132490</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>abel.tuter</sys_created_by>
+        <sys_created_on>2024-07-25 16:27:39</sys_created_on>
+        <sys_id>f826fb6283a74210eb071c29feaad3bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190eab835940000001</sys_recorded_at>
+        <sys_updated_by>abel.tuter</sys_updated_by>
+        <sys_updated_on>2024-07-25 16:27:39</sys_updated_on>
+        <type>UX Application Category M2M</type>
+        <update_guid>b826fb626da74210afd3edbb1fe686bc</update_guid>
+        <update_guid_history>b826fb626da74210afd3edbb1fe686bc:525132490</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>abel.tuter</sys_created_by>
+        <sys_created_on>2024-07-25 16:27:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_registry_m2m_category">sys_ux_registry_m2m_category</sys_db_object>
+        <sys_id>10e048caed6f41b6812e2d20d4aba4a4</sys_id>
+        <sys_metadata>f4855b5235630210c1f8c7693b618415</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Development Program Selection" source="x_1439284_develo_0">99dec31a83230210eb071c29feaad375</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Development Program Selection">99dec31a83230210eb071c29feaad375</sys_scope>
+        <sys_scope_delete display_value="">801ed180d9c946e88445a9f82c485469</sys_scope_delete>
+        <sys_update_name>sys_ux_registry_m2m_category_f4855b5235630210c1f8c7693b618415</sys_update_name>
+        <sys_update_version display_value="sys_ux_registry_m2m_category_f4855b5235630210c1f8c7693b618415">f826fb6283a74210eb071c29feaad3bc</sys_update_version>
+        <sys_updated_by>abel.tuter</sys_updated_by>
+        <sys_updated_on>2024-07-25 16:27:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

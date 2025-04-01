@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Contains references to global search configurations to be consumed by search components</description>
+        <name>global_search_configurations</name>
+        <page display_value="">34855b5286630210160197e1e114d428</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-24 19:26:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>b4855b52dc6302109a4b952d7160ab16</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global_search_configurations</sys_name>
+        <sys_package display_value="Development Program Selection" source="x_1439284_develo_0">99dec31a83230210eb071c29feaad375</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Development Program Selection">99dec31a83230210eb071c29feaad375</sys_scope>
+        <sys_update_name>sys_ux_page_property_b4855b52dc6302109a4b952d7160ab16</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-24 19:26:39</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1439284_develo_0.34855b5286630210160197e1e114d428.root.global_search_configurations</unique_name>
+        <value>{&#13;
+    "globalSearchViewConfigId": "97a574ea53c0130084acddeeff7b12a6",&#13;
+"globalSearchRoute": "search"&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Development Program Selection">99dec31a83230210eb071c29feaad375</application>
+        <file_path/>
+        <instance_id>3cbdc7f91b3975d09377eb9b2d4bcb85</instance_id>
+        <instance_name>dev182968</instance_name>
+        <name>sys_ux_page_property_b4855b52dc6302109a4b952d7160ab16</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Contains references to global search configurations to be consumed by search components</description><name>global_search_configurations</name><page display_value="">34855b5286630210160197e1e114d428</page><required_translations>[]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-24 19:26:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>b4855b52dc6302109a4b952d7160ab16</sys_id><sys_mod_count>0</sys_mod_count><sys_name>global_search_configurations</sys_name><sys_package display_value="Development Program Selection" source="x_1439284_develo_0">99dec31a83230210eb071c29feaad375</sys_package><sys_policy/><sys_scope display_value="Development Program Selection">99dec31a83230210eb071c29feaad375</sys_scope><sys_update_name>sys_ux_page_property_b4855b52dc6302109a4b952d7160ab16</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-24 19:26:39</sys_updated_on><type>json</type><unique_name>x_1439284_develo_0.34855b5286630210160197e1e114d428.root.global_search_configurations</unique_name><value>{&#13;
+    "globalSearchViewConfigId": "97a574ea53c0130084acddeeff7b12a6",&#13;
+"globalSearchRoute": "search"&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-723790340</payload_hash>
+        <record_name>global_search_configurations</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>abel.tuter</sys_created_by>
+        <sys_created_on>2024-07-25 16:27:39</sys_created_on>
+        <sys_id>3826fb6283a74210eb071c29feaad3e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190eab836e10000001</sys_recorded_at>
+        <sys_updated_by>abel.tuter</sys_updated_by>
+        <sys_updated_on>2024-07-25 16:27:39</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>f426fb62fca742101b82334725c4c7e9</update_guid>
+        <update_guid_history>f426fb62fca742101b82334725c4c7e9:-723790340</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>abel.tuter</sys_created_by>
+        <sys_created_on>2024-07-25 16:27:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>2454ccc8e4514a848bfd78efded02c44</sys_id>
+        <sys_metadata>b4855b52dc6302109a4b952d7160ab16</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global_search_configurations</sys_name>
+        <sys_package display_value="Development Program Selection" source="x_1439284_develo_0">99dec31a83230210eb071c29feaad375</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Development Program Selection">99dec31a83230210eb071c29feaad375</sys_scope>
+        <sys_scope_delete display_value="">801ed180d9c946e88445a9f82c485469</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_b4855b52dc6302109a4b952d7160ab16</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_b4855b52dc6302109a4b952d7160ab16">3826fb6283a74210eb071c29feaad3e9</sys_update_version>
+        <sys_updated_by>abel.tuter</sys_updated_by>
+        <sys_updated_on>2024-07-25 16:27:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

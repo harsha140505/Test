@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Development Program Selection Registration">a19c575e83630210eb071c29feaad3d8</sc_cat_item>
+        <sc_category display_value="Office">109cdff8c6112276003b17991a09ad65</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin1</sys_created_by>
+        <sys_created_on>2024-07-25 14:02:22</sys_created_on>
+        <sys_id>68e45f2283e34210eb071c29feaad301</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Office.Development Program Selection Registration</sys_name>
+        <sys_package display_value="Development Program Selection" source="x_1439284_develo_0">99dec31a83230210eb071c29feaad375</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Development Program Selection">99dec31a83230210eb071c29feaad375</sys_scope>
+        <sys_update_name>sc_cat_item_category_68e45f2283e34210eb071c29feaad301</sys_update_name>
+        <sys_updated_by>admin1</sys_updated_by>
+        <sys_updated_on>2024-07-25 14:02:22</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Development Program Selection">99dec31a83230210eb071c29feaad375</application>
+        <file_path/>
+        <instance_id>3cbdc7f91b3975d09377eb9b2d4bcb85</instance_id>
+        <instance_name>dev182968</instance_name>
+        <name>sc_cat_item_category_68e45f2283e34210eb071c29feaad301</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Development Program Selection Registration">a19c575e83630210eb071c29feaad3d8</sc_cat_item><sc_category display_value="Office">109cdff8c6112276003b17991a09ad65</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin1</sys_created_by><sys_created_on>2024-07-25 14:02:22</sys_created_on><sys_id>68e45f2283e34210eb071c29feaad301</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Office.Development Program Selection Registration</sys_name><sys_package display_value="Development Program Selection" source="x_1439284_develo_0">99dec31a83230210eb071c29feaad375</sys_package><sys_policy/><sys_scope display_value="Development Program Selection">99dec31a83230210eb071c29feaad375</sys_scope><sys_update_name>sc_cat_item_category_68e45f2283e34210eb071c29feaad301</sys_update_name><sys_updated_by>admin1</sys_updated_by><sys_updated_on>2024-07-25 14:02:22</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1470365882</payload_hash>
+        <record_name>Office.Development Program Selection Registration</record_name>
+        <reverted_from/>
+        <source>1ddec31a83230210eb071c29feaad386</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin1</sys_created_by>
+        <sys_created_on>2024-07-25 14:02:22</sys_created_on>
+        <sys_id>28e45f2283e34210eb071c29feaad305</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190ea3332a00000001</sys_recorded_at>
+        <sys_updated_by>admin1</sys_updated_by>
+        <sys_updated_on>2024-07-25 14:02:22</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>a8e45f2293e34210d5ccd76291e2e904</update_guid>
+        <update_guid_history>a8e45f2293e34210d5ccd76291e2e904:-1470365882</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Office.Development Program Selection Registration">8ae4df2283e34210eb071c29feaad39b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin1</sys_created_by>
+        <sys_created_on>2024-07-25 14:02:27</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>7416180efe1e4a19bc06a5a33fe54771</sys_id>
+        <sys_metadata>68e45f2283e34210eb071c29feaad301</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Office.Development Program Selection Registration</sys_name>
+        <sys_package display_value="Development Program Selection" source="x_1439284_develo_0">99dec31a83230210eb071c29feaad375</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Development Program Selection">99dec31a83230210eb071c29feaad375</sys_scope>
+        <sys_scope_delete display_value="">801ed180d9c946e88445a9f82c485469</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_68e45f2283e34210eb071c29feaad301</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_68e45f2283e34210eb071c29feaad301">28e45f2283e34210eb071c29feaad305</sys_update_version>
+        <sys_updated_by>admin1</sys_updated_by>
+        <sys_updated_on>2024-07-25 14:02:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

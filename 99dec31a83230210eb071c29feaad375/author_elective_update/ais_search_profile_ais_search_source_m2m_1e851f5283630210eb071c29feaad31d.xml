@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="DELETE">
+        <profile display_value="development-program-selection-workspace Search Profile">f4855b527063021022a11254b98e6228</profile>
+        <search_source display_value="Review Board">d2851f5283630210eb071c29feaad31b</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-24 19:26:44</sys_created_on>
+        <sys_id>1e851f5283630210eb071c29feaad31d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>development-program-selection-workspace Search Profile.Review Board</sys_name>
+        <sys_package display_value="Development Program Selection" source="x_1439284_develo_0">99dec31a83230210eb071c29feaad375</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Development Program Selection">99dec31a83230210eb071c29feaad375</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_1e851f5283630210eb071c29feaad31d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-24 19:26:44</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Development Program Selection">99dec31a83230210eb071c29feaad375</application>
+        <file_path/>
+        <instance_id>3cbdc7f91b3975d09377eb9b2d4bcb85</instance_id>
+        <instance_name>dev182968</instance_name>
+        <name>ais_search_profile_ais_search_source_m2m_1e851f5283630210eb071c29feaad31d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m"><ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE"><profile display_value="development-program-selection-workspace Search Profile">f4855b527063021022a11254b98e6228</profile><search_source display_value="Review Board">d2851f5283630210eb071c29feaad31b</search_source><sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-24 19:26:44</sys_created_on><sys_id>1e851f5283630210eb071c29feaad31d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>development-program-selection-workspace Search Profile.Review Board</sys_name><sys_package display_value="Development Program Selection" source="x_1439284_develo_0">99dec31a83230210eb071c29feaad375</sys_package><sys_policy/><sys_scope display_value="Development Program Selection">99dec31a83230210eb071c29feaad375</sys_scope><sys_update_name>ais_search_profile_ais_search_source_m2m_1e851f5283630210eb071c29feaad31d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-24 19:26:44</sys_updated_on></ais_search_profile_ais_search_source_m2m></record_update>]]></payload>
+        <payload_hash>798251703</payload_hash>
+        <record_name>development-program-selection-workspace Search Profile.Review Board</record_name>
+        <reverted_from/>
+        <source>1ddec31a83230210eb071c29feaad386</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-24 19:26:44</sys_created_on>
+        <sys_id>92851f5283630210eb071c29feaad332</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190e635ce320000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-24 19:26:44</sys_updated_on>
+        <type>AI Search Search Profile Search Source M</type>
+        <update_guid>d6851f52d3630210d7d4eb56d31fd831</update_guid>
+        <update_guid_history>d6851f52d3630210d7d4eb56d31fd831:798251703</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="development-program-selection-workspace Search Profile.Review Board">1cddf23283278210eb071c29feaad32e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-26 07:00:03</sys_created_on>
+        <sys_db_object display_value="" name="ais_search_profile_ais_search_source_m2m">ais_search_profile_ais_search_source_m2m</sys_db_object>
+        <sys_id>11f46f09f3d340bc8436fc786ca377a4</sys_id>
+        <sys_metadata>1e851f5283630210eb071c29feaad31d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>development-program-selection-workspace Search Profile.Review Board</sys_name>
+        <sys_package display_value="Development Program Selection" source="x_1439284_develo_0">99dec31a83230210eb071c29feaad375</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Development Program Selection">99dec31a83230210eb071c29feaad375</sys_scope>
+        <sys_scope_delete display_value="">801ed180d9c946e88445a9f82c485469</sys_scope_delete>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_1e851f5283630210eb071c29feaad31d</sys_update_name>
+        <sys_update_version display_value="ais_search_profile_ais_search_source_m2m_1e851f5283630210eb071c29feaad31d">92851f5283630210eb071c29feaad332</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-26 07:00:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

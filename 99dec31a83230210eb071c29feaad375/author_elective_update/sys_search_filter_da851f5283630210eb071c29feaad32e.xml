@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="DELETE">
+        <active>true</active>
+        <ais_search_source display_value="Review Board">d2851f5283630210eb071c29feaad31b</ais_search_source>
+        <label>Review Board</label>
+        <name>Review Board</name>
+        <order>200</order>
+        <search_context_config display_value="Development Program Selection Workspace AI Search Configuration">7c855b524963021018a8492a180a431e</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-24 19:26:44</sys_created_on>
+        <sys_id>da851f5283630210eb071c29feaad32e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Review Board</sys_name>
+        <sys_package display_value="Development Program Selection" source="x_1439284_develo_0">99dec31a83230210eb071c29feaad375</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Development Program Selection">99dec31a83230210eb071c29feaad375</sys_scope>
+        <sys_update_name>sys_search_filter_da851f5283630210eb071c29feaad32e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-24 19:26:44</sys_updated_on>
+    </sys_search_filter>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Development Program Selection">99dec31a83230210eb071c29feaad375</application>
+        <file_path/>
+        <instance_id>3cbdc7f91b3975d09377eb9b2d4bcb85</instance_id>
+        <instance_name>dev182968</instance_name>
+        <name>sys_search_filter_da851f5283630210eb071c29feaad32e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter"><sys_search_filter action="INSERT_OR_UPDATE"><active>true</active><ais_search_source display_value="Review Board">d2851f5283630210eb071c29feaad31b</ais_search_source><label>Review Board</label><name>Review Board</name><order>200</order><search_context_config display_value="Development Program Selection Workspace AI Search Configuration">7c855b524963021018a8492a180a431e</search_context_config><sys_class_name>sys_search_filter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-24 19:26:44</sys_created_on><sys_id>da851f5283630210eb071c29feaad32e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Review Board</sys_name><sys_package display_value="Development Program Selection" source="x_1439284_develo_0">99dec31a83230210eb071c29feaad375</sys_package><sys_policy/><sys_scope display_value="Development Program Selection">99dec31a83230210eb071c29feaad375</sys_scope><sys_update_name>sys_search_filter_da851f5283630210eb071c29feaad32e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-24 19:26:44</sys_updated_on></sys_search_filter></record_update>]]></payload>
+        <payload_hash>-913453104</payload_hash>
+        <record_name>Review Board</record_name>
+        <reverted_from/>
+        <source>1ddec31a83230210eb071c29feaad386</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-24 19:26:44</sys_created_on>
+        <sys_id>d6851f5283630210eb071c29feaad330</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190e635ce240000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-24 19:26:44</sys_updated_on>
+        <type>Navigation Tab</type>
+        <update_guid>1e851f52856302103b5dfd63f36eca2f</update_guid>
+        <update_guid_history>1e851f52856302103b5dfd63f36eca2f:-913453104</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-26 07:00:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_search_filter">sys_search_filter</sys_db_object>
+        <sys_id>02ffd6e7cec940a481920d6d91f0d7e4</sys_id>
+        <sys_metadata>da851f5283630210eb071c29feaad32e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Review Board</sys_name>
+        <sys_package display_value="Development Program Selection" source="x_1439284_develo_0">99dec31a83230210eb071c29feaad375</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Development Program Selection">99dec31a83230210eb071c29feaad375</sys_scope>
+        <sys_scope_delete display_value="">801ed180d9c946e88445a9f82c485469</sys_scope_delete>
+        <sys_update_name>sys_search_filter_da851f5283630210eb071c29feaad32e</sys_update_name>
+        <sys_update_version display_value="sys_search_filter_da851f5283630210eb071c29feaad32e">d6851f5283630210eb071c29feaad330</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-26 07:00:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

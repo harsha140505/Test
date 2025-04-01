@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5202af2683274210eb071c29feaad319" label="Development Program" max_length="40" name="x_1439284_develo_0_development_program" type="collection">
+        <element default="True" label="Active" max_length="255" name="active" type="boolean"/>
+        <element default="1" function_definition="1" label="Approval Levels" mandatory="true" max_length="40" name="approval_levels" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element display="true" label="Short Description" max_length="40" name="short_description" type="string"/>
+    </element>
+</database>

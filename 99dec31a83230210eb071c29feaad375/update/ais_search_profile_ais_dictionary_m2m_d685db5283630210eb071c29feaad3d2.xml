@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="x_1439284_develo_0_development_program_selection_workspace_search_profile_default_spell_check_dictionary">d685db5283630210eb071c29feaad3cf</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="development-program-selection-workspace Search Profile">f4855b527063021022a11254b98e6228</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-24 19:26:43</sys_created_on>
+        <sys_id>d685db5283630210eb071c29feaad3d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1439284_develo_0_development_program_selection_workspace_search_profile_default_spell_check_dictionary.development-program-selection-workspace Search Profile</sys_name>
+        <sys_package display_value="Development Program Selection" source="x_1439284_develo_0">99dec31a83230210eb071c29feaad375</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Development Program Selection">99dec31a83230210eb071c29feaad375</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_d685db5283630210eb071c29feaad3d2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-24 19:26:43</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

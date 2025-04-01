@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <profile display_value="development-program-selection Search Profile">f5d7f326bba7421084dee0d5887ded8d</profile>
+        <search_source display_value="Development Program">47d7772683a74210eb071c29feaad3b4</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>abel.tuter</sys_created_by>
+        <sys_created_on>2024-07-25 16:35:11</sys_created_on>
+        <sys_id>47d7772683a74210eb071c29feaad3b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>development-program-selection Search Profile.Development Program</sys_name>
+        <sys_package display_value="Development Program Selection" source="x_1439284_develo_0">99dec31a83230210eb071c29feaad375</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Development Program Selection">99dec31a83230210eb071c29feaad375</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_47d7772683a74210eb071c29feaad3b7</sys_update_name>
+        <sys_updated_by>abel.tuter</sys_updated_by>
+        <sys_updated_on>2024-07-25 16:35:11</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>
